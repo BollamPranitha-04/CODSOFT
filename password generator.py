@@ -1,4 +1,4 @@
-[8:15 PM, 5/21/2024] Josh❣️: import random
+import random
 import string
 
 def generate_password(length, use_uppercase=True, use_digits=True, use_punctuation=True):
